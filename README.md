@@ -1,6 +1,7 @@
 ## Hello World (Node + Render)
-- Code (GitHub): https://github.com/<your-username>/<your-repo>
-- Live on Render: https://<your-service-name>.onrender.com
+- Code (GitHub): https://github.com/charlottebaker1/server-helloworld
+- Live on Render: https://server-helloworld-w6vl.onrender.com/
+- https://server-helloworld-w6vl.onrender.com
 
 ## Run locally
 ```bash
